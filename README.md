@@ -44,6 +44,6 @@ This is a PyPI Library code which helps automate Bhav Copy Analysis.
   
   The output will be stored in the original folder location itself and the code requires two arguments, one is the location of the folder where the CM and F&O Bhav Copies are stored and the second argument is the list of stocks for which analysis is to be done.
   <br>
-  # For more details please check out the below video : 
+  # For (More details / Demo) please check out the below video : 
   
   https://drive.google.com/file/d/1UcjDs8ktoi6zcfwU86zHidbRH-JRQq5j/view?usp=sharing
