@@ -1,4 +1,7 @@
-[![Downloads](https://pepy.tech/badge/algofno)](https://pepy.tech/project/algofno)<br>
+[![Downloads](https://pepy.tech/badge/algofno)](https://pepy.tech/project/algofno)
+<img alt="PyPI" src="https://img.shields.io/pypi/v/algofno">
+<img alt="PyPI - License" src="https://img.shields.io/pypi/l/algofno">
+
 # AlgoFnO 
 This is a PyPI Library code which helps automate Bhav Copy Analysis.
 
